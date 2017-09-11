@@ -3,12 +3,13 @@
 ## Founder And CEO Cameron Feldhusen 
 
 
-## 
-https://m.popkey.co/faf6d7/vzG4G.gif
-
-## Other Projects
+### About
+FeldiTECH is a small start up consisting of just of one person. I wish to grow this name 
+and make it a tech company that specilizes in experimently technology for commercial, millitary
+and scientific purposes.
+### Other Projects
 
 https://github.com/feldhusentechnologies/CAM_PROJECTS
 
-## Contact
+### Contact
 You can contact me through email at cfeldhusen@student.alamo.edu
