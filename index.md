@@ -5,7 +5,7 @@
 
 ### About
 FeldiTECH is a small start up consisting of just of one person. I wish to grow this name 
-and make it a tech company that specilizes in experimently technology for commercial, millitary
+and make it a tech company that specilizes in experimental technology for commercial, military
 and scientific purposes.
 ### Other Projects
 
