@@ -9,7 +9,7 @@ and make it a tech company that specilizes in experimental technology for commer
 and scientific purposes.
 ### Other Projects
 
-[Link](https://github.com/feldhusentechnologies/CAM_PROJECTS)
+[Link to CAM_PROJECTS](https://github.com/feldhusentechnologies/CAM_PROJECTS)
 
 ### Contact
 You can contact me through email at cfeldhusen@student.alamo.edu
